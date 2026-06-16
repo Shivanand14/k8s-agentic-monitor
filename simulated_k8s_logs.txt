@@ -1,0 +1,6 @@
+INFO 2026-06-14 10:00:01 pod/payment-api-7f89d - Application started successfully.
+INFO 2026-06-14 10:01:15 pod/payment-api-7f89d - Connection pool initialized to DB cluster.
+WARNING 2026-06-14 10:02:45 pod/payment-api-7f89d - Memory consumption exceeded 85% of limit.
+WARNING 2026-06-14 10:03:10 pod/payment-api-7f89d - Garbage Collection failed to reclaim heap memory.
+CRITICAL 2026-06-14 10:04:00 pod/payment-api-7f89d - High memory stress. Garbage Collection loop saturated.
+CRITICAL 2026-06-14 10:04:12 pod/payment-api-7f89d - System kernel warning: low memory footprint detected.
